@@ -3,7 +3,7 @@
 ## Webinar
 https://us06web.zoom.us/j/83490300717?pwd=bi9xRVRrdnNrU0pQV1hsWEhQMDhHUT09
 
-## Sessions
+## Academic Sessions - Zoom Meeting
 
 > Meeting Password is 6913
 
@@ -28,7 +28,7 @@ https://us06web.zoom.us/j/8184592530?pwd=VmNFY0UyYmhXTlk1dURsQ25QVS9UZz09
 ### Session G - 241 465 5253
 https://us06web.zoom.us/j/2414655253?pwd=a2puRE0xdUZSVmovZDdUekhWNWl0Zz09
 
-### Poster Session - Gather Town
+## Poster Sessions - Gather Town
 https://app.gather.town/events/8lrJNx0MQJOMifosHkk-
 
 ---
