@@ -1,4 +1,4 @@
-![header](https://github.com/hana-academy-seoul/14th-international-symposium/assets/93381265/672221b2-e7db-4229-8f2e-bfa880ef5e19)
+[![header](https://github.com/hana-academy-seoul/14th-international-symposium/assets/93381265/672221b2-e7db-4229-8f2e-bfa880ef5e19)](https://hana.hs.kr/symposium/)
 
 ## Webinar
 https://us06web.zoom.us/j/83490300717?pwd=bi9xRVRrdnNrU0pQV1hsWEhQMDhHUT09
