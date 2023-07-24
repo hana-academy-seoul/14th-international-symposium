@@ -25,6 +25,9 @@ https://us06web.zoom.us/j/8184592530?pwd=VmNFY0UyYmhXTlk1dURsQ25QVS9UZz09
 ### Rehearsal (Section G) - 241 465 5253
 https://us06web.zoom.us/j/2414655253?pwd=a2puRE0xdUZSVmovZDdUekhWNWl0Zz09
 
+### Gather Town (Poster)
+https://app.gather.town/events/8lrJNx0MQJOMifosHkk-
+
 ---
 
 Copyright 2023. Hana Academy Seoul. All rights reserved.
